@@ -1,7 +1,3 @@
----
-title: Evelin Grana
-date: 16.02.2021
-description: kjekk og grei
----
+## _**En god anledning**_
 
-Er det en spesiell grunn til at det ikke kommer med, eller?
+:heart:
